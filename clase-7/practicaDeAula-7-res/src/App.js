@@ -1,6 +1,6 @@
 import React from "react";
 
-const lista = ["HOLA", "HOLA", "HOLA", "MUNDO"];
+const lista = ["OLÁ", "OLÁ", "OLÁ", "MUNDO"];
 
 class App extends React.Component {
   render() {
